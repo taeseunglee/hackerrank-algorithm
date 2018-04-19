@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-#define MOD 1000000007
-#define MAX(a, b) ((a) > (b) ? (a) : (b))
+/*** global variables ***/
+
+/************************/
 
 void __init__(void);
 void __process__(void);
@@ -18,7 +19,9 @@ int main()
 
 void __init__(void)
 {
+
 }
+
 void __process__(void)
 {
 }
